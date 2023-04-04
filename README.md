@@ -9,7 +9,7 @@
 > - Player 1 controls the paddle with the "w" and "s" keys
 > - Player 2 controls the paddle with the "up" and "down" keys
 
-<br>
+<br><br><br><br><br><br><br>
 
 ![](./pong-gui.gif)
 
